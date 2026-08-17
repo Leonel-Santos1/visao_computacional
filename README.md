@@ -13,16 +13,16 @@ Os exemplos foram organizados para acompanhar diretamente os slides. Quando uma 
 ```text
 .
 ├── Slides/
-│   ├── Aula 01.pdf
-│   ├── Aula 02.pdf
-│   ├── Aula 03.pdf
-│   ├── Aula 04.pdf
-│   ├── Aula 05.pdf
-│   ├── Aula 06.pdf
-│   ├── Aula 07.pdf
-│   ├── Aula 08.pdf
-│   ├── Aula 09.pdf
-│   └── Aula 10.pdf
+│   ├── Aula_01.pdf
+│   ├── Aula_02.pdf
+│   ├── Aula_03.pdf
+│   ├── Aula_04.pdf
+│   ├── Aula_05.pdf
+│   ├── Aula_06.pdf
+│   ├── Aula_07.pdf
+│   ├── Aula_08.pdf
+│   ├── Aula_09.pdf
+│   └── Aula_10.pdf
 │
 ├── VSCode/
 │   ├── Aula 01/
@@ -72,16 +72,16 @@ Os slides completos das **10 aulas** ficam disponíveis na pasta `Slides/`. Eles
 
 | Aula | Conteúdo | Slides |
 |:---:|---|:---:|
-| **Aula 01** | Introdução à Visão Computacional | [Ver slides](./Slides/Aula%2001.pdf) |
-| **Aula 02** | Processamento básico de imagens com OpenCV | [Ver slides](./Slides/Aula%2002.pdf) |
-| **Aula 03** | Do processamento clássico ao Aprendizado de Máquina | [Ver slides](./Slides/Aula%2003.pdf) |
-| **Aula 04** | Redes Neurais Convolucionais | [Ver slides](./Slides/Aula%2004.pdf) |
-| **Aula 05** | Detecção de Objetos | [Ver slides](./Slides/Aula%2005.pdf) |
-| **Aula 06** | Conhecendo YOLO | [Ver slides](./Slides/Aula%2006.pdf) |
-| **Aula 07** | Utilizando YOLO na prática | [Ver slides](./Slides/Aula%2007.pdf) |
-| **Aula 08** | Dataset próprio | [Ver slides](./Slides/Aula%2008.pdf) |
-| **Aula 09** | Treinando nosso próprio YOLO | [Ver slides](./Slides/Aula%2009.pdf) |
-| **Aula 10** | Do modelo ao sistema | [Ver slides](./Slides/Aula%2010.pdf) |
+| **Aula 01** | Introdução à Visão Computacional | [Ver slides](./Slides/Aula_01.pdf) |
+| **Aula 02** | Processamento básico de imagens com OpenCV | [Ver slides](./Slides/Aula_02.pdf) |
+| **Aula 03** | Do processamento clássico ao Aprendizado de Máquina | [Ver slides](./Slides/Aula_03.pdf) |
+| **Aula 04** | Redes Neurais Convolucionais | [Ver slides](./Slides/Aula_04.pdf) |
+| **Aula 05** | Detecção de Objetos | [Ver slides](./Slides/Aula_05.pdf) |
+| **Aula 06** | Conhecendo YOLO | [Ver slides](./Slides/Aula_06.pdf) |
+| **Aula 07** | Utilizando YOLO na prática | [Ver slides](./Slides/Aula_07.pdf) |
+| **Aula 08** | Dataset próprio | [Ver slides](./Slides/Aula_08.pdf) |
+| **Aula 09** | Treinando nosso próprio YOLO | [Ver slides](./Slides/Aula_09.pdf) |
+| **Aula 10** | Do modelo ao sistema | [Ver slides](./Slides/Aula_10.pdf) |
 
 ---
 
