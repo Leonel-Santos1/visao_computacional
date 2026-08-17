@@ -1,0 +1,3 @@
+# AULA 06 — SLIDE 26 — Primeira inferência pela linha de comando
+
+yolo predict model=yolo26n.pt source="imagem.jpg"

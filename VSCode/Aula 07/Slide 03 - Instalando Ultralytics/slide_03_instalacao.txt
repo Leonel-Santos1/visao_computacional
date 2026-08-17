@@ -1,0 +1,3 @@
+# AULA 07 — SLIDE 03 — Instalando Ultralytics
+
+pip install -U ultralytics

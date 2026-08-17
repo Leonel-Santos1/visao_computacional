@@ -1,0 +1,3 @@
+# AULA 10 — SLIDE 17 — Exportando pela linha de comando
+
+yolo export model=best.pt format=onnx

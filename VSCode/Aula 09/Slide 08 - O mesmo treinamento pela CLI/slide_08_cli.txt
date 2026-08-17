@@ -1,0 +1,7 @@
+# AULA 09 — SLIDE 08 — O mesmo treinamento pela CLI
+
+yolo detect train \
+  model=yolo26n.pt \
+  data=data.yaml \
+  epochs=50 \
+  imgsz=640

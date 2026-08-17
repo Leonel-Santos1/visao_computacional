@@ -1,0 +1,5 @@
+# AULA 06 — SLIDE 27 — Exemplos de argumentos no formato chave=valor
+
+conf=0.25
+imgsz=640
+save=True

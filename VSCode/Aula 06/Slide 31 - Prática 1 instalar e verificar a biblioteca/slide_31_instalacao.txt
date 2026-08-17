@@ -1,0 +1,3 @@
+# AULA 06 — SLIDE 31 — Instalação
+
+pip install ultralytics

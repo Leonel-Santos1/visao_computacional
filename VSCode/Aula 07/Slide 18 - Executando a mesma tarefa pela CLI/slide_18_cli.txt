@@ -1,0 +1,3 @@
+# AULA 07 — SLIDE 18 — Executando a mesma tarefa pela CLI
+
+yolo predict model=yolo26n.pt source="imagem.jpg" conf=0.4

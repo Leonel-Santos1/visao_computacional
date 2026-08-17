@@ -1,0 +1,15 @@
+# AULA 10 — SLIDE 40 — Prática coletiva 2: pseudocódigo da contagem
+# O próprio slide informa que crossed_line ainda precisa ser implementada.
+
+counted_ids = set()
+total = 0
+
+if result.boxes and result.boxes.is_track:
+    centers = result.boxes.xywh[:, :2].cpu()
+    ids = result.boxes.id.int().cpu().tolist()
+
+    for center, track_id in zip(centers, ids):
+        if crossed_line(center, track_id):
+            if track_id not in counted_ids:
+                counted_ids.add(track_id)
+                total += 1
