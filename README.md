@@ -55,29 +55,20 @@ Nos arquivos Python, trechos adicionados apenas para facilitar a execução ou a
 
 ## Notebooks no Google Colab
 
-Os notebooks podem ser executados diretamente no navegador, sem necessidade de manter uma pasta `Colab` dentro do repositório.
+Os notebooks podem ser executados diretamente no navegador. Eles **não fazem parte da estrutura de pastas do repositório**; o acesso é feito pelos links abaixo.
 
-| Aula 01 | Aula 02 |
-|:---:|:---:|
-| Introdução à Visão Computacional | Processamento básico de imagens com OpenCV |
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mVBE_j56IxhpDzfy34hfbr858gA_AnMQ?authuser=1) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lvAgi6HBgRvf6n23CuiTZAjqKPQIgK1o?authuser=1#scrollTo=uGZsf40fnqKR) |
+| Aula | Conteúdo | Notebook |
+|:---:|---|:---:|
+| **Aula 01** | Introdução à Visão Computacional | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mVBE_j56IxhpDzfy34hfbr858gA_AnMQ?authuser=1) |
+| **Aula 02** | Processamento básico de imagens com OpenCV | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lvAgi6HBgRvf6n23CuiTZAjqKPQIgK1o?authuser=1#scrollTo=uGZsf40fnqKR) |
+| **Aula 04** | Redes Neurais Convolucionais | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11fuIlOyFWQZSkuSb1kCLUQwA3GXqNVvY?authuser=1) |
+| **Aula 06** | Conhecendo YOLO | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yg9PmKh6-r8WfAniS9kEfxqmsnqRQnET?authuser=1) |
+| **Aula 07** | Utilizando YOLO na prática | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13BFP47dyoNHsYH2lAHqVxXXU7qzCjbTv?authuser=1) |
+| **Aula 08** | Dataset próprio | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wJqY5qI56vnhPeDXjzYWX-IL-raEzUQT?authuser=1) |
+| **Aula 09** | Treinando nosso próprio YOLO | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VF0DWZ2HTQIJwxQb1guIBx65Lpdk7sfT?authuser=1) |
+| **Aula 10** | Do modelo ao sistema | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11yIRa-XkgK406Sxf8mtSIJIl_rpFq10N?authuser=1) |
 
-| Aula 04 | Aula 06 |
-|:---:|:---:|
-| Redes Neurais Convolucionais | Conhecendo YOLO |
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11fuIlOyFWQZSkuSb1kCLUQwA3GXqNVvY?authuser=1) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yg9PmKh6-r8WfAniS9kEfxqmsnqRQnET?authuser=1) |
-
-| Aula 07 | Aula 08 |
-|:---:|:---:|
-| Utilizando YOLO na prática | Dataset próprio |
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13BFP47dyoNHsYH2lAHqVxXXU7qzCjbTv?authuser=1) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wJqY5qI56vnhPeDXjzYWX-IL-raEzUQT?authuser=1) |
-
-| Aula 09 | Aula 10 |
-|:---:|:---:|
-| Treinando nosso próprio YOLO | Do modelo ao sistema |
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VF0DWZ2HTQIJwxQb1guIBx65Lpdk7sfT?authuser=1) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11yIRa-XkgK406Sxf8mtSIJIl_rpFq10N?authuser=1) |
-
-> As práticas que dependem de **vídeo, webcam ou tracking em tempo real** permanecem apenas na versão local para VS Code.
+> **Observação:** práticas que dependem de **vídeo, webcam ou tracking em tempo real** permanecem apenas na versão local para VS Code.
 
 ---
 
