@@ -1,6 +1,6 @@
 # Treinamento de Visão Computacional com YOLO
 
-Este repositório reúne os **códigos práticos** utilizados no treinamento de Visão Computacional com YOLO.
+Este repositório reúne os materiais do **Treinamento de Visão Computacional com YOLO**, incluindo os **slides das 10 aulas**, os **códigos práticos para execução local no VS Code** e os **notebooks executáveis no Google Colab**.
 
 Os exemplos foram organizados para acompanhar diretamente os slides. Quando uma aula possui mais de uma prática, cada código fica separado em uma pasta identificada pelo **número e pelo título do slide correspondente**.
 
@@ -12,6 +12,18 @@ Os exemplos foram organizados para acompanhar diretamente os slides. Quando uma 
 
 ```text
 .
+├── Slides/
+│   ├── Aula 01.pdf
+│   ├── Aula 02.pdf
+│   ├── Aula 03.pdf
+│   ├── Aula 04.pdf
+│   ├── Aula 05.pdf
+│   ├── Aula 06.pdf
+│   ├── Aula 07.pdf
+│   ├── Aula 08.pdf
+│   ├── Aula 09.pdf
+│   └── Aula 10.pdf
+│
 ├── VSCode/
 │   ├── Aula 01/
 │   ├── Aula 02/
@@ -22,10 +34,11 @@ Os exemplos foram organizados para acompanhar diretamente os slides. Quando uma 
 │   ├── Aula 09/
 │   ├── Aula 10/
 │   └── requirements.txt
+│
 └── README.md
 ```
 
-As **Aulas 03 e 05** não possuem pastas de código neste repositório, pois são aulas predominantemente conceituais e não possuem práticas executáveis separadas.
+As **Aulas 03 e 05** estão disponíveis normalmente na pasta `Slides/`, mas não possuem pastas em `VSCode/`, pois são aulas predominantemente conceituais e não possuem práticas executáveis separadas.
 
 Quando uma aula possui várias práticas, a organização segue este padrão:
 
@@ -50,6 +63,25 @@ Nos arquivos Python, trechos adicionados apenas para facilitar a execução ou a
 ```python
 # PLOT / VISUALIZAÇÃO — apoio didático
 ```
+
+---
+
+## Slides das aulas
+
+Os slides completos das **10 aulas** ficam disponíveis na pasta `Slides/`. Eles podem ser abertos diretamente pelo GitHub ou baixados junto com o restante do repositório.
+
+| Aula | Conteúdo | Slides |
+|:---:|---|:---:|
+| **Aula 01** | Introdução à Visão Computacional | [Ver slides](./Slides/Aula%2001.pdf) |
+| **Aula 02** | Processamento básico de imagens com OpenCV | [Ver slides](./Slides/Aula%2002.pdf) |
+| **Aula 03** | Do processamento clássico ao Aprendizado de Máquina | [Ver slides](./Slides/Aula%2003.pdf) |
+| **Aula 04** | Redes Neurais Convolucionais | [Ver slides](./Slides/Aula%2004.pdf) |
+| **Aula 05** | Detecção de Objetos | [Ver slides](./Slides/Aula%2005.pdf) |
+| **Aula 06** | Conhecendo YOLO | [Ver slides](./Slides/Aula%2006.pdf) |
+| **Aula 07** | Utilizando YOLO na prática | [Ver slides](./Slides/Aula%2007.pdf) |
+| **Aula 08** | Dataset próprio | [Ver slides](./Slides/Aula%2008.pdf) |
+| **Aula 09** | Treinando nosso próprio YOLO | [Ver slides](./Slides/Aula%2009.pdf) |
+| **Aula 10** | Do modelo ao sistema | [Ver slides](./Slides/Aula%2010.pdf) |
 
 ---
 
