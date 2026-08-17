@@ -91,14 +91,14 @@ Os notebooks podem ser executados diretamente no navegador. Eles **não fazem pa
 
 | Aula | Conteúdo | Notebook |
 |:---:|---|:---:|
-| **Aula 01** | Introdução à Visão Computacional | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1mVBE_j56IxhpDzfy34hfbr858gA_AnMQ/view?usp=sharing) |
-| **Aula 02** | Processamento básico de imagens com OpenCV | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/11fuIlOyFWQZSkuSb1kCLUQwA3GXqNVvY/view?usp=sharing) |
-| **Aula 04** | Redes Neurais Convolucionais | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1yg9PmKh6-r8WfAniS9kEfxqmsnqRQnET/view?usp=sharing) |
-| **Aula 06** | Conhecendo YOLO | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/13BFP47dyoNHsYH2lAHqVxXXU7qzCjbTv/view?usp=sharing) |
-| **Aula 07** | Utilizando YOLO na prática | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1wJqY5qI56vnhPeDXjzYWX-IL-raEzUQT/view?usp=sharing) |
-| **Aula 08** | Dataset próprio | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1wJqY5qI56vnhPeDXjzYWX-IL-raEzUQT/view?usp=sharing) |
-| **Aula 09** | Treinando nosso próprio YOLO | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1VF0DWZ2HTQIJwxQb1guIBx65Lpdk7sfT/view?usp=sharing) |
-| **Aula 10** | Do modelo ao sistema | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/11yIRa-XkgK406Sxf8mtSIJIl_rpFq10N/view?usp=sharing) |
+| **Aula 01** | Introdução à Visão Computacional | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mVBE_j56IxhpDzfy34hfbr858gA_AnMQ) |
+| **Aula 02** | Processamento básico de imagens com OpenCV | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lvAgi6HBgRvf6n23CuiTZAjqKPQIgK1o) |
+| **Aula 04** | Redes Neurais Convolucionais | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11fuIlOyFWQZSkuSb1kCLUQwA3GXqNVvY) |
+| **Aula 06** | Conhecendo YOLO | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yg9PmKh6-r8WfAniS9kEfxqmsnqRQnET) |
+| **Aula 07** | Utilizando YOLO na prática | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13BFP47dyoNHsYH2lAHqVxXXU7qzCjbTv) |
+| **Aula 08** | Dataset próprio | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wJqY5qI56vnhPeDXjzYWX-IL-raEzUQT) |
+| **Aula 09** | Treinando nosso próprio YOLO | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VF0DWZ2HTQIJwxQb1guIBx65Lpdk7sfT) |
+| **Aula 10** | Do modelo ao sistema | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11yIRa-XkgK406Sxf8mtSIJIl_rpFq10N) |
 
 > **Observação:** práticas que dependem de **vídeo, webcam ou tracking em tempo real** permanecem apenas na versão local para VS Code.
 
